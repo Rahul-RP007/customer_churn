@@ -14,15 +14,6 @@ import seaborn as sns
 
 df=pd.read_csv('/content/customer_churn.csv')
 df
-
-
-
-
-
-
-
-
-
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 
